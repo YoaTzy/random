@@ -3,12 +3,12 @@
 # shellcheck disable=SC2086
 
 set -eE
-confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
+confhome=https://raw.githubusercontent.com/YoaTzy/random/main
 confhome_cn=https://cnb.cool/bin456789/reinstall/-/git/raw/main
 # confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 # 默认密码
-DEFAULT_PASSWORD=123@@@
+DEFAULT_PASSWORD=123123123@@@
 
 # 用于判断 reinstall.sh 和 trans.sh 是否兼容
 SCRIPT_VERSION=4BACD833-A585-23BA-6CBB-9AA4E08E0003
